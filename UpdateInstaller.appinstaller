@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="http://hdsnw879.github.io/Warehouse-Manager/UpdateInstaller.appinstaller"
-	Version="0.0.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="0.0.2.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="61dbc02d-6f1e-4c7b-abe1-631fb01f6ccb"
-		Version="0.0.1.0"
+		Version="0.0.2.0"
 		Publisher="CN=Hdjsnsi"
-		Uri="http://hdsnw879.github.io/Warehouse-Manager/UpdateInstaller_0.0.1.0_Test/UpdateInstaller_0.0.1.0_x64.appxbundle" />
+		Uri="http://hdsnw879.github.io/Warehouse-Manager/UpdateInstaller_0.0.2.0_Test/UpdateInstaller_0.0.2.0_x64.appxbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
